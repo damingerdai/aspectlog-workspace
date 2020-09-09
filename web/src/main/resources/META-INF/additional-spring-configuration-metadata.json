@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "aspectLog.enable",
+      "type": "java.lang.Boolean",
+      "description": "Description for aspectLog.enable."
+  }
+] }
